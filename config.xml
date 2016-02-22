@@ -5,7 +5,7 @@
    xmlns="http://www.w3.org/ns/widgets"
    xmlns:gap="http://phonegap.com/ns/1.0">
 
-<name>BrEACON</name>
+<name>BReacon</name>
 <description> Reading BLE </description>
 <author email="jardel@jatecnologia.com" href="http://jatecnologia.com"> Jardel Vieira </author>
 <content src="index.html" />
