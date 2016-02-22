@@ -19,7 +19,7 @@
 
 <platform name="android">
    <allow-intent href="market:*" />
-   <icon src="logo.png" platform="android" qualifier="ldpi" />
+   <icon src="br_ico.png" platform="android" qualifier="ldpi" />
 </platform>
 
 <platform name="ios">
