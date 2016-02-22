@@ -70,8 +70,8 @@ app.ui.onStartScanButton = function()
 	app.startScan(app.ui.deviceFound);
 	app.ui.displayStatus('Scanning...  ' + timeNow);
 	app.ui.displayDeviceList();
-	//app.ui.updateTimer = setInterval(app.ui.displayDeviceList, 2000);
-	app.ui.updateTimer = setTimeout(app.ui.onStartScanButton, 2000);
+	app.ui.updateTimer = setInterval(app.ui.displayDeviceList, 1000);
+	//app.ui.updateTimer = setTimeout(app.ui.onStartScanButton, 2000);
 };
 
 // Called when Stop Scan button is selected.
