@@ -12,7 +12,6 @@
 
 <gap:plugin name="cordova-plugin-device-motion" source="npm" />
 <gap:plugin name="cordova-plugin-vibration" source="npm" />
-<plugin name="TelephoneNumber" value="com.simonmacdonald.cordova.plugins.TelephoneNumber"/>
 <plugin name="com.evothings.ble" spec="1.0.0" source="pgb" />
 
 <access origin="*" /> <allow-intent href="http://*/*" />
